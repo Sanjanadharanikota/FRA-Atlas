@@ -117,7 +117,7 @@
 
 | **Type** | **Link** |
 |-----------|----------|
-| ▶️ **Project Demo Video** | [Watch on YouTube](https://youtu.be/CYhiBzf6u0Q?si=yGYN2UKcYjZ88Q3m) |
+| ▶️ **Project Demo Video** | 
 
 ---
 
