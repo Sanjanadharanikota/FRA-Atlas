@@ -169,4 +169,4 @@ See full list of datasets and legal references in [Model & Data References](http
 
 ---
 
-© 2025 **Team DevSphere** | Built for **Smart India Hackathon 2025**
+© 
