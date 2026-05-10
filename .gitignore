@@ -94,7 +94,7 @@ test-report.xml
 *.key
 
 # =========================
-# Project Specific (Data & Models)
+# Project Specific & Requested Exclusions
 # =========================
 *.db
 *.db-journal
@@ -105,16 +105,14 @@ test-report.xml
 *.pkl
 *.joblib
 commands.txt
+pasted.txt
 FRA-Form-B.pdf
-Backend/data/dss_index.json
-Backend/scratch/
-
-# Requested Exclusions
 images/
 Documents/COMappings.pdf
 Documents/IJIRT195690_PAPER.pdf
-FRA-Form-B.pdf
-pasted.txt
+Documents/pasted.txt
+Backend/data/dss_index.json
+Backend/scratch/
 
 # =========================
 # Jupyter

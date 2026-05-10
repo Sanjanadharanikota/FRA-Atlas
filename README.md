@@ -15,10 +15,7 @@
 [![JWT Auth](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
 
-![GitHub stars](https://img.shields.io/github/stars/Sanjanadharanikota/FRA-Atlas?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Sanjanadharanikota/FRA-Atlas?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Sanjanadharanikota/FRA-Atlas?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Sanjanadharanikota/FRA-Atlas?style=for-the-badge)
+
 
 
 
