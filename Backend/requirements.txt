@@ -1,0 +1,41 @@
+# --- Core Web & API ---
+fastapi
+uvicorn
+python-multipart
+
+# --- OCR & Image Processing ---
+pillow
+pytesseract
+
+# --- LLM / AI ---
+langchain
+langchain-google-genai
+python-dotenv
+pypdf
+
+# --- Database ---
+psycopg2-binary          # PostgreSQL driver
+sqlalchemy               # ORM for flexible queries
+alembic                  # DB migrations
+
+# --- Geocoding / Location ---
+geopy                    # Distance, geocoding utilities (alternative to Nominatim requests)
+
+# --- Optional Enhancements ---
+fastapi-cache2           # Simple caching (e.g. geocoding or scheme lookups)
+redis                    # Backend for caching (if you enable fastapi-cache2)
+pandas                   # Useful for analytics or tabular joins
+requests                 # External API calls (explicit dependency)
+
+# --- Security / Auth (optional if you plan to secure the DSS API) ---
+python-jose[cryptography]   # JWT handling for authentication
+fastapi-jwt-auth            # Simple JWT integration (optional)
+
+# --- Vector Search (optional for semantic DSS queries) ---
+pgvector                   # Only if you want embeddings/semantic search later
+
+# --- Earth Engine & AI ---
+earthengine-api            # Google Earth Engine (for ee)
+tensorflow                 # Deep learning models
+numpy                      # Numerical ops
+shapely                    # Geometry operations
